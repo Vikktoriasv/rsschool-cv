@@ -8,7 +8,6 @@
     
     <meta property="og:title" content=" Viktoryia Svetenkova" />
     <meta property="og:locale" content="en_US" />
-    <meta property="og:url" content="https://Vikktoriasv.github.io/rsschool-cv/cv.html" />
     <script defer src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj" crossorigin="anonymous"></script>
 </head>
 <body>
@@ -41,7 +40,6 @@
         <hr/>
         <h2 id="contacts">Coding example</h2>
         <div class="language-js highlighter-rouge">
-            
              <code> <div class="highlight"><pre class="highlight">
             type AppPropsType = {
                 Time: string
@@ -57,7 +55,7 @@
                 ]
             }
         </code></pre></div>
-            </div>
+        </div>
         <hr/>
         <h2 id="contacts">Education </h2>
         The Belarusian State University of Informatics and Radioelectronics :<br/> Faculty of Information Technology and Management ( graduation-2023 )
