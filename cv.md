@@ -44,8 +44,7 @@
         <h2 id="contacts">Coding example</h2>
         <div class="language-js highlighter-rouge">
             
-                <div class="highlight"><pre class="highlight">
-            <code>
+             <code> <div class="highlight"><pre class="highlight">
             type AppPropsType = {
                 Time: string
             }
