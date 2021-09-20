@@ -13,8 +13,6 @@
     <meta property="og:site_name" content="rsschool-cv" />
     <script defer src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj" crossorigin="anonymous"></script>
 </head>
-
-
 <body>
     <div class="container-lg  px-5 my-5 markdown-body">
         <h1><a href="https://Vikktoriasv.github.io/rsschool-cv/">rsschool-cv</a></h1>
@@ -28,7 +26,6 @@
             <li>Telegram: @tori_svet</li>
             <li>Instagram: vikosik_sv </li>
         </ul>
-
         <hr/>
         <h2 id="contacts">About me</h2>
         I’ve been studying Frontend Development for the last 4 month. My aim is to start working as a developer next year.
@@ -63,10 +60,8 @@
                 ]
             }
         </code></pre></div>
-            
             </div>
         <hr/>
-
         <h2 id="contacts">Education </h2>
         The Belarusian State University of Informatics and Radioelectronics :<br/> Faculty of Information Technology and Management ( graduation-2023 )
         <hr/>
@@ -74,14 +69,7 @@
         <ul>
             <li>Russian - Native </li>
             <li>English - Intermediate(B1) <br/> (At the moment I'm studying on courses "Underground ", increasing my level) </li>
-        </ul>    
-
+        </ul> 
     </div>
 </body>
-
-<footer>
-    <!-- <a class="my-github" href="https://github.com/Vikktoriasv"></a>
-    <img class="git_icon" src="./icons/github.svg" alt="Github Icon" width="26" height="26"> -->
-        
-</footer>
 </html>
