@@ -1,9 +1,7 @@
 <body>
     <div class="container-lg  px-5 my-5 markdown-body">
         <h1><a href="https://Vikktoriasv.github.io/rsschool-cv/">rsschool-cv</a></h1>
-        <hr/>
         <h1 id="order-summary"> Viktoryia Svetenkova </h1>
-        <hr/>
         <h2 id="contacts">Contacts</h2>
         <ul>
             <li>E-mail: viktoryiasv@gmail.com</li>
@@ -11,7 +9,6 @@
             <li>Telegram: @tori_svet</li>
             <li>Instagram: vikosik_sv </li>
         </ul>
-        <hr/>
         <h2 id="contacts">About me</h2>
         I’ve been studying Frontend Development for the last 4 month. My aim is to start working as a developer next year.
         I enjoy working in teams where calm, friendliness, warmth and hospitality prevail, and I want to work in an atmosphere where sharing creative ideas, encouraging discussion and collective decision making comes first.<br/>
@@ -42,7 +39,6 @@
             }
         </code></pre></div>
         </div>
-        <hr/>
         <h2 id="contacts">Education </h2>
         The Belarusian State University of Informatics and Radioelectronics :<br/> Faculty of Information Technology and Management ( graduation-2023 )
         <hr/>
