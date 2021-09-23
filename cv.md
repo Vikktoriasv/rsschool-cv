@@ -25,7 +25,6 @@
             <li>REACT.JS.</li>
             <li>Working with Figma and Photoshop</li>
         </ul>
-        <hr/>
         <h2 id="contacts">Coding example</h2>
         <div class="language-js highlighter-rouge">
              <code> <div class="highlight"><pre class="highlight">
