@@ -41,7 +41,6 @@
         </div>
         <h2 id="contacts">Education </h2>
         The Belarusian State University of Informatics and Radioelectronics :<br/> Faculty of Information Technology and Management ( graduation-2023 )
-        <hr/>
         <h2 id="contacts" > Languages </h2>
         <ul>
             <li>Russian - Native </li>
