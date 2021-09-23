@@ -16,7 +16,6 @@
         I’ve been studying Frontend Development for the last 4 month. My aim is to start working as a developer next year.
         I enjoy working in teams where calm, friendliness, warmth and hospitality prevail, and I want to work in an atmosphere where sharing creative ideas, encouraging discussion and collective decision making comes first.<br/>
         Some interesting facts:<br/> I play the piano, graduated from music school in 2018 <br/> I love taking pictures, I trained on photography courses in 2019 <br/> I love sports,fitness, I was dancing as a child and  did gymnastics, I really like it.
-        <hr/>
         <h2 id="contacts">Skills</h2>
         <ul>
             <li>HTML5</li>
@@ -27,7 +26,7 @@
         </ul>
         <h2 id="contacts">Coding example</h2>
         <div class="language-js highlighter-rouge">
-             <code> <div class="highlight"><pre class="highlight">
+             <code> <div class="highlight">
             type AppPropsType = {
                 Time: string
             }
