@@ -25,7 +25,7 @@
             <li>Working with Figma and Photoshop</li>
         </ul>
         <h2 id="contacts">Coding example</h2>
-        <div class="language-js highlighter-rouge">
+        <div class="language-js highlighter-rouge"><pre>
              <code> <div class="highlight">
             type AppPropsType = {
                 Time: string
