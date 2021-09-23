@@ -1,6 +1,5 @@
 <body>
     <div class="container-lg  px-5 my-5 markdown-body">
-        <h1><a href="https://Vikktoriasv.github.io/rsschool-cv/">rsschool-cv</a></h1>
         <h1 id="order-summary"> Viktoryia Svetenkova </h1>
         <h2 id="contacts">Contacts</h2>
         <ul>
